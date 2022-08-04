@@ -6,7 +6,7 @@
 
 -------------
 
-####Instalación
+### Instalación
 
 `$ npm install`
 
